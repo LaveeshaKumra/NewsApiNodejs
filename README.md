@@ -39,8 +39,8 @@ API_KEY=876c9aa2843e42b88351c7c64332bacc
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/LaveeshaKumra/news-api-project2
-   cd news-api-project2
+   git clone [https://github.com/LaveeshaKumra/news-api-project2](https://github.com/LaveeshaKumra/NewsApiNodejs/)
+   cd NewsApiNodejs
 
 2. **Install Dependencies:** 
     npm install
