@@ -31,8 +31,6 @@ This project is a RESTful API built with Node.js and Express.js, designed to han
   - `authMiddleware.js`: Middleware for JWT authentication.
   - `validation.js`: Input validation for registration and preferences.
 - .env file : adding the details for testing purpose
-JWT_SECRET=a1d79aa1454a16ad6d72c8957d343351ad6f3674b0adf1cc7e254d0e567da005
-API_KEY=876c9aa2843e42b88351c7c64332bacc
 
 ## Setup and Installation
 
@@ -45,9 +43,9 @@ API_KEY=876c9aa2843e42b88351c7c64332bacc
 2. **Install Dependencies:** 
     npm install
 
-3. **Create a .env File:** (For testing purpose , I am not deleting those)
-    JWT_SECRET=your_jwt_secret
-    API_KEY=your_news_api_key
+3. **Create a .env File:** (For testing purpose , I am adding those)
+    JWT_SECRET=a1d79aa1454a16ad6d72c8957d343351ad6f3674b0adf1cc7e254d0e567da005
+    API_KEY=876c9aa2843e42b88351c7c64332bacc
 
 4. **Run the Application:**
     nodejs index.js
